@@ -1,0 +1,6 @@
+name: YatopiaReload
+author: lvxinlei
+version: 0.1
+main: top.dsbbs2.yr.Main
+api-version: 1.16
+load: STARTUP
